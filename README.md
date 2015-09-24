@@ -18,7 +18,7 @@ Download binary for your OS
 Usage:
     -h        help
     -u        attack url
-    -n        count of header line, default 900000
+    -n        count of header line, default 350000
     -c        keep the number of connections
 ```
 
